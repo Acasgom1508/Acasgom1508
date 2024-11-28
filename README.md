@@ -19,7 +19,6 @@
 </p>
 
   ## 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acasgom1508&show_icons=true&theme=radical) 
   ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
   
   
