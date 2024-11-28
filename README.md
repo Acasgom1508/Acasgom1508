@@ -19,7 +19,7 @@
 </p>
 
   ## 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acasgom1508&show_icons=true&theme=tokyonight&count_private=true) ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acasgom1508&show_icons=true&theme=radical) ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
   
   
   ---
@@ -29,4 +29,4 @@
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniocastano2005@gmail.com)
 </div>
 
-Last Edited on: 29/11/2024
+Last Edited on: 28/11/2024
