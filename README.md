@@ -4,7 +4,7 @@
   # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Antonio
   **Aspiring Software Developer**
 
-  <img src="https://komarev.com/ghpvc/?username=Acasgom1508&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Acasgom1508&color=red" alt="Profile Views" />
 
   ## 🌟 About Me
   I'm currently studying **Multiplatform Application Development (DAM)** in my second year.  
@@ -19,7 +19,8 @@
 </p>
 
   ## 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acasgom1508&show_icons=true&theme=radical) ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acasgom1508&show_icons=true&theme=radical) 
+  ![Streak de GitHub](https://streak-stats.demolab.com/?user=Acasgom1508&theme=radical)
   
   
   ---
